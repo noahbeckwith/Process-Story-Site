@@ -115,6 +115,8 @@ img {
     top:0px;
     left:0px;
     padding: 0 2.5%;
+    text-align: justify;
+    text-align-last: justify;
 }
 
 /*smoothstate*/
