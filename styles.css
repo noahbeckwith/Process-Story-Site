@@ -242,9 +242,9 @@ img {
     }
     
     img {
-        width:auto;
         padding: 1% 0;
         max-height: 90vh;
+        width:auto;
     }
 }
 
@@ -337,9 +337,9 @@ img {
     }
     
     img {
-        max-width:100%;
         padding: 1% 0;
         max-height: 90vh;
+        width:auto;
     }
 }
 
@@ -431,8 +431,8 @@ img {
     }
     
     img {
-        max-width:100%;
         padding: 1% 0;
         max-height: 90vh;
+        width:auto;
     }
 }
