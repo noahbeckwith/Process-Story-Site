@@ -245,6 +245,7 @@ img {
         padding: 1% 0;
         max-height: 90vh;
         width:auto;
+        max-width: 100%;
     }
 }
 
@@ -340,6 +341,7 @@ img {
         padding: 1% 0;
         max-height: 90vh;
         width:auto;
+        max-width: 100%;
     }
 }
 
@@ -434,5 +436,6 @@ img {
         padding: 1% 0;
         max-height: 90vh;
         width:auto;
+        max-width: 100%;
     }
 }
